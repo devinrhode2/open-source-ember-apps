@@ -34,6 +34,7 @@ A list of open source Ember apps
 
 ## Ember `1.13.x`
 
+* [Huboard](https://github.com/huboard/huboard-web)
 * [Transitland Feed Registry](https://github.com/transitland/feed-registry)
 * [Hoodie Admin Dashboard](https://github.com/hoodiehq/hoodie-admin-dashboard)
 * [Wikitongues Poly](https://github.com/wikitongues/poly)
@@ -68,10 +69,6 @@ A list of open source Ember apps
 ## Ember `1.2.x`
 
 * [Basho/Giddyup](https://github.com/basho/giddyup/tree/refactor/sdc-ember-upgrade)
-
-## Ember `1.00`
-
-* [Huboard](https://github.com/huboard/huboard-web)
 
 ## Ember `1.RC6`
 
